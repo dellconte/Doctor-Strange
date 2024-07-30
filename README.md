@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="Fashion Photography" src="assets/Screenshot-Doctor-Strange.png" width="40%">
+  <img alt="Fashion Photography" src="assets/Screenshot-Doctor-Strange.png" width="80%">
 </p>
 
 ## Tecnologias
